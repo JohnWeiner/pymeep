@@ -1,3 +1,3 @@
-# pymeep-John
-This is change 1 to README
+# numerical-electronmagnetics
+This is change 2 to README
 
